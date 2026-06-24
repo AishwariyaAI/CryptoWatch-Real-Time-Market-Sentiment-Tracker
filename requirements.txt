@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+plotly
+yfinance
+requests
+newsapi-python
+transformers
+torch
+torchvision
+accelerate
+sentencepiece
+wordcloud
+matplotlib
+python-dotenv
+groq
+streamlit-autorefresh
